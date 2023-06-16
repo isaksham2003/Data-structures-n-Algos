@@ -4,7 +4,7 @@
   using namespace std;
   int main()
   {
-  int n,i,a[10000];
+  int n,i,a[10];
   cout<<"enter size of array";
   cin>>n;
   cout<<endl<<"enter elements in array";
